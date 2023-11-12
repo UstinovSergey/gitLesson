@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a8f8a3-f0a0-4815-9c71-9c790a0c8d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/NewTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NewTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "new__test",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
